@@ -1,3 +1,9 @@
+/***************************************
+
+Structure of an API
+
+****************************************/
+
 // Imports express.
 const express = require('express');
 // Initializes express app.
